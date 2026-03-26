@@ -1,0 +1,10 @@
+# Sécurité B-Strong : Ne jamais uploader les clés d'accès
+service_account.json
+
+# Environnements virtuels Python
+venv/
+.env
+
+# Fichiers de cache
+__pycache__/
+*.py[cod]
