@@ -121,10 +121,4 @@ Indexing/
 | 💼 LinkedIn | [linkedin.com/company/b-strong-marketing-digital](https://linkedin.com/company/b-strong-marketing-digital) |
 
 *Besoin d'un accompagnement sur mesure pour industrialiser l'indexation, auditer votre visibilité ou renforcer vos performances sur Google ? Parlons-en.*
-```
-
----
-
-Tu peux maintenant aller sur GitHub, ouvrir le fichier `README.md`, cliquer sur le crayon ✏️, tout sélectionner, coller ce contenu et committer avec le message :
-```
 docs: mise à jour README v2 - nouvelles fonctionnalités sitemap automation
